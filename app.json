@@ -28,7 +28,7 @@
       "description": "Optional: Simple HTTP auth for the dashboard. Make sure to share those with your team",
       "required": true
     },
-    "i3#68&te": {
+    "test": {
       "description": "Optional: Simple HTTP auth for the dashboard. Make sure to share those with your team",
       "required": true
     }
