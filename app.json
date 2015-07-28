@@ -26,11 +26,11 @@
     },
     "lookback": {
       "description": "Optional: Simple HTTP auth for the dashboard. Make sure to share those with your team",
-      "required": false
+      "required": true
     },
-    "i3#68&pxM79cTghYN": {
+    "i3#68&te": {
       "description": "Optional: Simple HTTP auth for the dashboard. Make sure to share those with your team",
-      "required": false
+      "required": true
     }
   }
 }
