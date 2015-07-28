@@ -8,7 +8,7 @@
   "success_url": "/dashboard",
   "addons": ["mongolab"],
   "env": {
-    "SLACK_TOKEN": {
+    "xoxb-8299084678-agJsMKi6IEhiJCi9GJ97xWkz": {
       "description": "Your team's Slackbot token (create a new token here: https://yourteam.slack.com/services/new/bot)",
       "required": true
     },
