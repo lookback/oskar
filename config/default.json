@@ -3,13 +3,13 @@
     "url"   : ""
   },
   "slack"            : {
-    "token"            : "",
+    "token"            : "xoxb-8299084678-agJsMKi6IEhiJCi9GJ97xWkz",
     "disabledUsers"    : ["USLACKBOT"],
     "disabledChannels" : [],
     "channelId": ""
   },
   "auth": {
-    "username": "",
-    "password": ""
+    "username": "lookback",
+    "password": "i3#68&pxM79cTghYN"
   }
 }
