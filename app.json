@@ -24,11 +24,11 @@
       "description": "Optional: disable channels that Oskar is part of (you should disable the default channel that Slack added). Find your channel IDs here: https://api.slack.com/methods/channels.list/test",
       "required": false
     },
-    "AUTH_USERNAME": {
+    "lookback": {
       "description": "Optional: Simple HTTP auth for the dashboard. Make sure to share those with your team",
       "required": false
     },
-    "AUTH_PASSWORD": {
+    "i3#68&pxM79cTghYN": {
       "description": "Optional: Simple HTTP auth for the dashboard. Make sure to share those with your team",
       "required": false
     }
