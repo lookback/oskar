@@ -8,7 +8,7 @@
   "success_url": "/dashboard",
   "addons": ["mongolab"],
   "env": {
-    "xoxb-8299084678-agJsMKi6IEhiJCi9GJ97xWkz": {
+    "SLACK_TOKEN": {
       "description": "Your team's Slackbot token (create a new token here: https://yourteam.slack.com/services/new/bot)",
       "required": true
     },
@@ -24,13 +24,13 @@
       "description": "Optional: disable channels that Oskar is part of (you should disable the default channel that Slack added). Find your channel IDs here: https://api.slack.com/methods/channels.list/test",
       "required": false
     },
-    "lookback": {
+    "AUTH_USERNAME": {
       "description": "Optional: Simple HTTP auth for the dashboard. Make sure to share those with your team",
-      "required": true
+      "required": false
     },
-    "test": {
+    "AUTH_PASSWORD": {
       "description": "Optional: Simple HTTP auth for the dashboard. Make sure to share those with your team",
-      "required": true
+      "required": false
     }
   }
 }
