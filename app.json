@@ -26,11 +26,11 @@
     },
     "AUTH_USERNAME": {
       "description": "Optional: Simple HTTP auth for the dashboard. Make sure to share those with your team",
-      "required": false
+      "required": true
     },
     "AUTH_PASSWORD": {
       "description": "Optional: Simple HTTP auth for the dashboard. Make sure to share those with your team",
-      "required": false
+      "required": true
     }
   }
 }
